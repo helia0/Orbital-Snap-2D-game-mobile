@@ -4,6 +4,7 @@ Mobile game 2d
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/361a72f5-8ae4-4714-a050-9dc1dd17abe9" />
 
 
+
 🕹️ Step 1: Understanding the 2 Fixed Tracks
 The game is based on extremely precise geometry centered around the middle of the screen:
 Inner Track (Track 0): Tight radius (70 px). Fast angular rotation, short reaction time.
@@ -26,3 +27,9 @@ Step 4: Build the Multiplier & Trigger “Near Misses”
 Performance and the high score depend on taking risks:
 Exponential Combo: Each cyan target destroyed in a row increases the multiplier (x2, x3, x4...). Letting a cyan ring pass beyond the outer track immediately breaks the combo.
 “CLOSE!” Bonus: Switching orbits within 200 ms of a red ring on the track you just left counts as a Near Miss: massive points and a micro-jolt of reward.
+
+
+
+
+
+
