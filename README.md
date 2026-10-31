@@ -1,4 +1,4 @@
-# Orbital-Snap-2D-game-mobile
+# Pulse Breaker-2D-game-mobile
 Mobile game 2d 
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/361a72f5-8ae4-4714-a050-9dc1dd17abe9" />
